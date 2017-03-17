@@ -1,0 +1,6 @@
+results
+ignore
+*.csv
+taxi_zones
+*checkpoints*
+.DS_Store
